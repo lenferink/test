@@ -4,6 +4,7 @@ about: Templated used for bug fixes
 title: ''
 labels: ''
 assignees: ''
+
 ---
 
 ### Describe the fix
